@@ -7,3 +7,5 @@ How is the staging area different from the working directory and the repository?
 	modified files which are not in the staging area yet.
 How can you use the staging area to make sure you have one commit per logical change?
 	I can check the difference of the change compared to the last commit before commiting the changes in the staging area
+What are some situations when branches would be helpful in keeping your history organized? How would branches help?
+	when I want to experiment with some new features or create a localized or different version but don't want to touch the master/production version
