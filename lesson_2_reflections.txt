@@ -5,3 +5,5 @@ How is the staging area different from the working directory and the repository?
 	it is where you define which files to use for a commit. It always includes
 	the files from the last commit. A working directory can have additional
 	modified files which are not in the staging area yet.
+How can you use the staging area to make sure you have one commit per logical change?
+	I can check the difference of the change compared to the last commit before commiting the changes in the staging area
