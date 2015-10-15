@@ -2,4 +2,6 @@ What happens when you initialize a repository? Why do you need to do it?
 	a new repository is created and all files in the repository are known but
 	not tracked or committed as long they are not added to a commit
 How is the staging area different from the working directory and the repository? What value do you think it offers?
-	it is where you define which files to use for a commit
+	it is where you define which files to use for a commit. It always includes
+	the files from the last commit. A working directory can have additional
+	modified files which are not in the staging area yet.
