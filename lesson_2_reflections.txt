@@ -8,4 +8,7 @@ How is the staging area different from the working directory and the repository?
 How can you use the staging area to make sure you have one commit per logical change?
 	I can check the difference of the change compared to the last commit before commiting the changes in the staging area
 What are some situations when branches would be helpful in keeping your history organized? How would branches help?
-	when I want to experiment with some new features or create a localized or different version but don't want to touch the master/production version
+	when I want to experiment with some new features or create a localized or different version but don't want to touch the master/production versionan
+How do the diagrams help you visualize the branch structure?
+	they help me understand to see commits which are potentially unreachable
+	I better understand when to create a new branch if I don't want to loose track of the changes done after a pre-master commit
