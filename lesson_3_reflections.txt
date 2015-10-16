@@ -1,2 +1,4 @@
 Why might you want to always pull changes manually rather than having Git automatically stay up-to-date with your remote repository?
 	the remote repository may have received additions from other users or computers so the repository would be out of sync with my local copy
+Describe the differences between forks, clones, and branches. When would you use one instead of another?
+	Clones are independent copies of a local remote git repository. Forks are clones of existing remote repositories. Commits to forks can be traced back to the original repository. Branches are different tracks on a repository which implement significant changes to a program
