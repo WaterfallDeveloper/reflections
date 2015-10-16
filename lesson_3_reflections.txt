@@ -1,1 +1,2 @@
-
+Why might you want to always pull changes manually rather than having Git automatically stay up-to-date with your remote repository?
+	the remote repository may have received additions from other users or computers so the repository would be out of sync with my local copy
