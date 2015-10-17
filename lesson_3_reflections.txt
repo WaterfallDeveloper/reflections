@@ -6,3 +6,5 @@ What is the benefit of having a copy of the last known state of the remote store
 	so you know about the development and changes added to the project. This helps you decide if when and where you would merge the remote with the local version.
 How would you collaborate without using Git or GitHub? What would be easier, and what would be harder?
 	it would be definitely harder, if not impossible, to keep track of the different stages and versions of a project, especially when it comes to merging. The admin effort to maintain the git repository is tremendous though and would be much less if working with manual copies of a project
+When would you want to make changes in a separate branch rather than directly in master? What benefits does each approach have?
+	I consider the master being a version of my prject in production. Therefore I would only touch it, if I have a tested new working version ready which I would then merge with the master.
